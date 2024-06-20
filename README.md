@@ -11,4 +11,4 @@ O projeto Sorteador de Números foi utilizado o método Random, contendo algumas
 <li>HTML5, CSS3, JavaScript e Responsividade.
 </ul>
 <h2>🔍 Design Web</h2>
-<img src= "[./assets/Apresentacao.jpg](https://github.com/Suellenrosana/sorteador/blob/main/assets/apresentacao.jpg?raw=true)">
+<img src= "https://github.com/Suellenrosana/sorteador/blob/main/assets/apresentacao.jpg?raw=true">
