@@ -3,7 +3,7 @@
 
 O DevSorteio é um sorteador de números que possibilita o usuário escolher o intervalo de números que serão sorteados.
 
-O projeto Sorteador de Números foi utilizado o método Randow, contendo algumas validações para melhor usabilidade.
+O projeto Sorteador de Números foi utilizado o método Random, contendo algumas validações para melhor usabilidade.
 
 <h2>💻Tecnologias utilizadas</h2>
 <ul>
