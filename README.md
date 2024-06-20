@@ -1,7 +1,7 @@
 
 <h1> DevSorteio🔮</h1>
 
-O DevSorteio é um sorteador de números que possibilita o usuário escolher o intervalo de números serõ sorteados.
+O DevSorteio é um sorteador de números que possibilita o usuário escolher o intervalo de números serão sorteados.
 
 O projeto Sorteador de Números foi utilizado o método Random, contendo algumas validações para melhor usabilidade.
 
